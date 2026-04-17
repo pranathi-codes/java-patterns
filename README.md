@@ -1,2 +1,19 @@
-# java-patterns
-Java pattern programs to improve logic building and loop concepts for DSA.
+# ⭐ Java Patterns 🚀
+
+Learning Java by practicing pattern programs.
+
+---
+
+## 📂 Topics
+
+* Star patterns ⭐
+* Number patterns 🔢
+* Pyramid patterns 🔺
+
+---
+
+## 🎯 Goal
+
+Improve logic & problem-solving.
+
+---
